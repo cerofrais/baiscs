@@ -1,2 +1,4 @@
-flask
-turtle
+# for basic flask app
+flask==1.1.1
+# for turtle example
+# turtle comes by default
